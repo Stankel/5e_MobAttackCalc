@@ -1,0 +1,15 @@
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\bin\Debug\net6.0\DnD_MobAttackCalculator.exe
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\bin\Debug\net6.0\DnD_MobAttackCalculator.deps.json
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\bin\Debug\net6.0\DnD_MobAttackCalculator.runtimeconfig.json
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\bin\Debug\net6.0\DnD_MobAttackCalculator.dll
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\bin\Debug\net6.0\DnD_MobAttackCalculator.pdb
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.csproj.AssemblyReference.cache
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.AssemblyInfoInputs.cache
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.AssemblyInfo.cs
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.dll
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\refint\DnD_MobAttackCalculator.dll
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.pdb
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\DnD_MobAttackCalculator.genruntimeconfig.cache
+C:\Users\DanStecher\RiderProjects\DnD_MobAttackCalculator\DnD_MobAttackCalculator\obj\Debug\net6.0\ref\DnD_MobAttackCalculator.dll
