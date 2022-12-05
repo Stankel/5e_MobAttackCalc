@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TX6admHMZtKJnesjSm+88KE3wgOl+fQs3tZDHtd2NsfLF9OCVLpFFXTdRmuKKDdmgLguL/fhRb+Z1cDt7e5haQ==",
+  "dgSpecHash": "YM9tnHgWPC0rVyohoZq89GSTjmfqGUlywg+PqsPKdodoMDZd6A84eLKaddQuTJbZNn15xocuHQb/mYRrbuLtQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
+  "projectFilePath": "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

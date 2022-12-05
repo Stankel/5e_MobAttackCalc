@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj": {}
+    "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj": {
+    "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
+        "projectUniqueName": "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
         "projectName": "DnD_MobAttackCalculator",
-        "projectPath": "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
-        "packagesPath": "C:\\Users\\DanStecher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanStecher\\RiderProjects\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator\\obj\\",
+        "projectPath": "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\DnD_MobAttackCalculator.csproj",
+        "packagesPath": "C:\\Users\\dandr\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\5e_MobAttackCalc\\DnD_MobAttackCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DanStecher\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\dandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://bestselleras.jfrog.io/artifactory/api/nuget/v3/brandtech": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
